@@ -1,0 +1,6 @@
+[book]
+authors = ["WistfulHopes"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Arc System Works Modding Book"
