@@ -10,3 +10,10 @@
 - [Testing and distribution](getting-started/final.md)
     - [Packaging your mod](getting-started/packing.md)
     - [Installing your mod](getting-started/installing.md)
+
+# UI Modding
+
+- [Applicable games](ui-modding/applicable.md)
+- [UMG basics](ui-modding/umg.md)
+- [Finding widgets](ui-modding/assets.md)
+- [Common pitfalls](ui-modding/pitfalls.md)
