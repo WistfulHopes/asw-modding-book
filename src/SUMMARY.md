@@ -6,46 +6,51 @@
 
 - [Installing Unreal Engine](getting-started/getting-unreal.md)
 - [Starting the editor](getting-started/using-unreal.md)
-  - [Getting the project for your game](getting-started/custom-project.md)](getting-started/installing.md)
+  - [Custom UE4 project](getting-started/custom-project.md)](getting-started/installing.md)
+- [Required tools]()
+- [Loose file loading]()
 
-# Mesh/Model Modding
+# Creating your mod
 
-- [Extracting game models]()
+- [Mesh/Model]()
+  - [Extracting game models]()
   - [Importing models into Blender]()
   - [Exporting models into UE4]()
+  - [Setting materials and outline]()
 
-# Texture/Color Modding
+- [Texture/Color]()
 
-# Mesh/Model Modding
-
-- [Extracting animations]()
+- [Animations]()
+  - [Extracting animations]()
   - [Importing animations into Blender]()
+  - [Altering animations in Blender]()
   - [Exporting animations into UE4]()
+  - [Checking animations in-game]()
+  - [Adding entirely new animations]()
 
-# Particle Modding
-
-- [Particle structure]()
+- [Particles]()
   - [Particle editor]()
   - [UassetGUI]()
 
-# Moveset Modding
-
-- [Intro to BBS]()
-  - [Character script structure]()
+- [Moveset]()
+  - [Extracting BBS]()
+  - [Understanding BBS]()
+  - [Importing BBS]()
   - [Advanced BBS]()
-  - [Per-game BBS info]()
+  - [Per-game BBS specifics]()
     - [Strive]()
     - [DBFZ]()
 
-# UI Modding
-
-- [Applicable games](ui-modding/applicable.md)
+- [UI Modding]()
+  - [Applicable games](ui-modding/applicable.md)
   - [UMG basics](ui-modding/umg.md)
   - [Finding widgets](ui-modding/assets.md)
   - [Common pitfalls](ui-modding/pitfalls.md)
 
-# Packaging your mod
-
-- [Testing and distribution](testing-packing/final.md)
-  - [Packaging your mod](testing-packing/packing.md)
-  - [Installing your mod](testing-packing/installing.md)
+# Distributing your mod
+  - [Creating a .pak archive]()
+    - [Packaging your mod](testing-packing/packing.md)
+    - [Installing your mod](testing-packing/installing.md)
+  - [Unverum compatibility]()
+    - [Text patching]()
+  - [Uploading to Gamebanana]()
