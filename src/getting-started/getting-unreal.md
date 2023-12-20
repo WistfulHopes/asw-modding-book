@@ -1,10 +1,17 @@
-# The right Unreal Engine build
+# Installing Unreal Engine
 
-Unreal Engine 4 is a versatile engine, but sometimes the developer may need more than is originally provided. When this happens, the developer will modify UE4 to suit their needs. Arc System Works does this for all of their titles. As a result, we have to replicate their changes in order to make high quality mods. Mesh, particle, and shader replacements all require these changes. Luckily, there are public customized engines for every Unreal Engine version Arc System Works has used. 
+Arc System Works has customized various aspects of UE4 to suit their needs.
 
-Below are download links to every custom engine version and its associated game(s):
+This means that although we can install the plain vanilla UE4 and use that to make mods, we'd be missing on key features needed to make them work properly. Thankfully, Ryn has reverse-engineered several of these changes and implemented some of the key features we require into custom UE4 builds.
 
-- Dragon Ball FighterZ uses [Unreal Engine 4.17](https://1drv.ms/u/s!ApT7KvOr_B0hy4ZgwT3lHcwhu3MVSA?e=cTrwqV).
-- The original Granblue Fantasy Versus uses [Unreal Engine 4.21](https://1drv.ms/u/s!ApT7KvOr_B0hkPgWb5AjxrUapJcYmQ?e=79mVYA).
-- Guilty Gear -Strive- and DNF Duel use [Unreal Engine 4.25](https://1drv.ms/u/s!ApT7KvOr_B0hkPgRVEhN1MsPEpnAeA?e=bPFdsf).
-- Granblue Fantasy Versus Rising uses [Unreal Engine 4.27](https://drive.google.com/file/d/1SnX9rcMxeHP82GojHocdLUux2Sa0qZG1/view?usp=sharing).
+
+
+Download links below. Just pick the one matching the game you wish to mod. Note that the exact version is important; you cannot do things like use UE4.27 to mod DBFZ.
+
+| Game                          | Engine                                                                                                   |
+| ----------------------------- | -------------------------------------------------------------------------------------------------------- |
+| Dragon Ball FighterZ          | [Unreal Engine 4.17](https://1drv.ms/u/s!ApT7KvOr_B0hy4ZgwT3lHcwhu3MVSA?e=cTrwqV)                        |
+| Guilty Gear \-Strive\-        | [Unreal Engine 4.25](https://1drv.ms/u/s!ApT7KvOr_B0hkPgRVEhN1MsPEpnAeA?e=bPFdsf)                        |
+| DNF Duel                      | [Unreal Engine 4.25](https://1drv.ms/u/s!ApT7KvOr_B0hkPgRVEhN1MsPEpnAeA?e=bPFdsf)                        |
+| Granblue Fantasy Versus       | [Unreal Engine 4.21](https://1drv.ms/u/s!ApT7KvOr_B0hkPgWb5AjxrUapJcYmQ?e=79mVYA)                        |
+| GranBlue Fantasy Verus Rising | [Unreal Engine 4.27](https://drive.google.com/file/d/1SnX9rcMxeHP82GojHocdLUux2Sa0qZG1/view?usp=sharing) |
