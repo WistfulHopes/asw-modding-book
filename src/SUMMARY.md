@@ -7,3 +7,6 @@
 - [The right Unreal Engine build](getting-started/getting-unreal.md)
 - [How to use Unreal Engine](getting-started/using-unreal.md)
     - [Getting the project for your game](getting-started/custom-project.md)
+- [Testing and distribution](getting-started/final.md)
+    - [Packaging your mod](getting-started/packing.md)
+    - [Installing your mod](getting-started/installing.md)
