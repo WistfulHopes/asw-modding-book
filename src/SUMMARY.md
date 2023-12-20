@@ -6,7 +6,7 @@
 
 - [Installing Unreal Engine](getting-started/getting-unreal.md)
 - [Starting the editor](getting-started/using-unreal.md)
-  - [Custom UE4 project](getting-started/custom-project.md)](getting-started/installing.md)
+  - [Custom UE4 project](getting-started/custom-project.md)
 - [Required tools]()
 - [Loose file loading]()
 
