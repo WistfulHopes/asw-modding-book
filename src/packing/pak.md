@@ -1,4 +1,6 @@
-# Packaging your mod
+# Creating a .pak archive
+
+<hr>
 
 First: the prerequisites. In order to package your mod, the folder hierarchy must follow the rule of `ModName\RED\Content\`, with the rest of the hierarchy matching the asset's original path.
 

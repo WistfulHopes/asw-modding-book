@@ -1,5 +1,7 @@
 # Installing your mod
 
+<hr>
+
 Once your mod is packaged, you currently have two options for installing it:
 
 1. Using Unverum. Press "Add Mods" at the top-right, then click "Create New Mod." Give it any name you wish, and after pressing Confirm, find the .pak you made in the previous step. Now, once you press Launch at the top-center, your mod will be used in-game. This method's main advantages are easy management of mods, and .sig files are generated for you. The main disadvantage is that Unverum is somewhat clunky by comparison to mod managers used by other communities, and a decent number of people choose to not use it altogether.

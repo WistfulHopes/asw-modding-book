@@ -1,5 +1,7 @@
 # Common pitfalls
 
+<hr>
+
 Modding UI can be quite complicated, and you may run into crashes. Here are several of the common pitfalls I've personally run into, and how they can be avoided.
 
 - If the game crashes upon loading the UI element, there is a very good chance that you deleted a part of the widget. **Never delete parts of the widget, as the game may try to reference it.** Even something as innocuous as a text box could crash the game if it was missing. Instead, set its visibility to Collapsed.

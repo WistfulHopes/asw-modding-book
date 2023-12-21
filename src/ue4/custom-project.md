@@ -1,5 +1,7 @@
 # Getting the project for your game
 
+<hr>
+
 The prebuilt custom projects provide all of the custom asset types the game supports, and for newer games, they even include many assets from the game, such as UI elements or data tables. 
 
 Below are download links for each game:
