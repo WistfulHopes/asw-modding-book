@@ -1,10 +1,14 @@
 # Installing Unreal Engine
 
+<hr>
+
 Arc System Works has customized various aspects of UE4 to suit their needs.
 
 This means that although we can install the plain vanilla UE4 and use that to make mods, we'd be missing on key features needed to make them work properly. Thankfully, Ryn has reverse-engineered several of these changes and implemented some of the key features we require into custom UE4 builds.
 
-You can find the download links below. Just pick the one matching the game you wish to mod. Note that the exact version is important; you cannot do things like use Unreal Engine 4.27 to mod Dragon Ball FighterZ.
+
+
+Download links below. Just pick the one matching the game you wish to mod. Note that the exact version is important; you cannot do things like use UE4.27 to mod DBFZ.
 
 | Game                          | Engine                                                                                                   |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------- |

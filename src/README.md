@@ -1,5 +1,7 @@
 # Introduction
 
+<hr>
+
 **Arc System Works fighting games**, specifically those made in Unreal Engine by Team RED, can be heavily modded. From basic texture and model imports all the way to gameplay overhauls and custom characters, these games have a ton of modding potential. However, modding documentation for these games is incredibly lacking. 
 
 Guides for easier mods like texture and model imports are easy to find, but are outdated and lacking critical information. Meanwhile, documentation for editing gameplay scripts is harder to find and split across multiple resources. And there is only one document for custom characters, and it's incredibly lacking. More niche mod types such as UI mods or code mods have zero documentation at all, forcing anyone interested into asking around in Discord servers hoping for answers.

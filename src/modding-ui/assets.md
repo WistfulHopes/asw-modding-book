@@ -1,5 +1,7 @@
 # Finding widgets
 
+<hr>
+
 In Team RED Unreal Engine 4 games, all widgets can be found in RED\Content\UI. The overall contents of the folder differ per game, but names are fairly consistent. 
 
 - The HUD for battles can be found in UI\battle in most games. In Strive, it can be found in UI\Battle_Xrd3.

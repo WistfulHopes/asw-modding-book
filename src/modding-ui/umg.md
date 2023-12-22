@@ -1,5 +1,7 @@
 # UMG basics
 
+<hr>
+
 UMG (Unreal Motion Graphics) is the built-in UI framework in Unreal Engine, and is what Team RED uses in all of their games for UI. As such, learning the basics of UMG is critical to modding.
 
 This topic is beyond the scope of this guide, but I will leave useful resources for using UMG here:
