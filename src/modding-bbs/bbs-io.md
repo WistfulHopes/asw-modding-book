@@ -12,6 +12,8 @@ TODO: Upload generic versions of Broscar's DBFZ scripts
 
 ## Manual method
 
+Manually extracting and injecting scripts is preferred if other assets need to be packaged.
+
 ### Bulk extracting all BBS from the game
 
 Open the game's pak in FModel, and open the package search window (Ctrl + Shift + F). Type in `BBS_`.
@@ -30,10 +32,37 @@ for f in `find "Output" -type f -name "BBS_*"`
 done
 ```
 
-### Extract a script from a UE4 container
+### Extract a script from the .uasset/.uexp
+
+Using [Pangaea's ggst-bbs-unpacker](https://github.com/super-continent/ggst-bbs-unpacker/releases/tag/0.0.1), scripts (and other ArcSys binaries) can be extracted. After exporting the .uasset from FModel, open the .uasset *and* .uexp files using ggst-bbs-unpacker. Then, click Extract and save it in a location of your choosing.
 
 ### Parse the script
 
+Using [Pangaea's BBScript tool](https://github.com/super-continent/bbscript/releases/tag/1.0.0) by itself, you will need to use the command line. **If you have never used the command line before, find a tutorial on it first.**
+
+In the command line, run ```cmd
+bbscript parse <config> <binary> <text>
+```
+
+where <config> is the matching configuration filename in static_db, <binary> is the extracted script, and <text> is the file to parse to.
+
+<div class="warning">
+
+If the file to parse to already exists, an error will be thrown to prevent accidental overwriting. If you do wish to overwrite the given file, put `-o` after the command.
+
+</div>
+
 ### Rebuild the script
 
-### Inject the script back into the UE4 container
+The BBScript tool can also rebuild scripts from text back into binary form. 
+
+In the command line, run ```cmd
+bbscript rebuild <config> <text> <binary>
+```
+
+where <config> is the matching configuration filename in static_db, <text> is the modified text, and <binary> is the script to write to.
+
+
+### Inject the script back into the .uasset/.uexp
+
+ggst-bbs-unpacker can also inject scripts and other binaries back into the .uasset/.uexp. Open the original .uasset and .uexp. Then, select the file you wish to inject. Finally, click Inject. 
