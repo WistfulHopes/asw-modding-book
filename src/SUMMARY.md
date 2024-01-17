@@ -73,6 +73,10 @@
   - [Finding widgets](modding-ui/assets.md)
   - [Common pitfalls](modding-ui/pitfalls.md)
 
+- [Code Modding](modding-code/code-intro.md)
+  - [Setting up the Ghidra project]()
+  - [Setting up UE4SS]()
+
 # Distributing your mod
   - [Creating a .pak archive](packing/pak-intro.md)
     - [Installing your mod](packing/pak-installing.md)
