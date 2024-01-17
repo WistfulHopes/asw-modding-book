@@ -2,7 +2,7 @@
 
 <hr>
 
-BBS allows you to do much more than simply change damage numbers and spawn funny projectiles.
+BBS allows you to do much more than simply change damage numbers and spawn projectiles.
 
 Although it's a bit limited by the very nature of functioning inside of a fighting game framework, you can effectively achieve nearly anything you want with it, as long as you're willing to get creative.
 

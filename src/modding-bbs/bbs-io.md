@@ -14,8 +14,8 @@ TODO: Upload generic versions of Broscar's DBFZ scripts
 
 ### Bulk extracting all BBS from the game
 
-Open the game's pak in Fmodel, and open the package search window (ctrl+shift+f). Type in `BBS_`.
-Select all items in that window (ctrl+a), right click, and select 'Export Raw Data (.uasset)'.
+Open the game's pak in FModel, and open the package search window (Ctrl + Shift + F). Type in `BBS_`.
+Select all items in that window (Ctrl + A), right click, and select 'Export Raw Data (.uasset)'.
 
 The files will appear in the 'Output' directory, but with their original folder structure intact, which can be time consuming to work with.
 To consolidize all of these BBS files, you can slap any of these scripts into your FModel directory. When you run it, it'll copy all BBS files into a single folder named 'bbs'.
