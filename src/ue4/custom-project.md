@@ -8,7 +8,7 @@ Below are download links for each game:
 
 - [Dragon Ball FighterZ custom project](https://drive.google.com/file/d/1-wjbe0aE4Xs8S7AunSB0XtAE-sSZsOnW/view?usp=sharing)
 - The original Granblue Fantasy Versus does not have a custom project.
-- Guilty Gear -Strive-'s custom project is bundled with the editor.
+- Guilty Gear -Strive-'s custom project is bundled with the editor. However, the content is a separate download. It can be found in [the same Google Drive folder as the editor.](https://drive.google.com/drive/u/0/folders/16hIM2Gy7V2Vcc3cpj10nY4emUhqmJwd7)
 - [DNF Duel custom project](https://1drv.ms/u/s!ApT7KvOr_B0hgY3rUBgqs787KHi5_iY?e=xKuxrI)
 - [Granblue Fantasy Versus Rising custom project](https://drive.google.com/file/d/1aA1WYxkxpOUpNqSi5kANLUhh4Ja7A_4l/view?usp=drive_link)
 
