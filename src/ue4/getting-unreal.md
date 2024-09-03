@@ -11,7 +11,7 @@ You can find the download links below. Just pick the one matching the game you w
 | Game                          | Engine                                                                                                   |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------- |
 | Dragon Ball FighterZ          | [Unreal Engine 4.17](https://1drv.ms/u/s!ApT7KvOr_B0hy4ZgwT3lHcwhu3MVSA?e=cTrwqV)                        |
-| Guilty Gear \-Strive\-        | [Unreal Engine 4.25](https://1drv.ms/u/s!ApT7KvOr_B0hkPgRVEhN1MsPEpnAeA?e=bPFdsf)                        |
+| Guilty Gear \-Strive\-        | [Unreal Engine 4.25](https://drive.google.com/drive/u/0/folders/16hIM2Gy7V2Vcc3cpj10nY4emUhqmJwd7)	   |
 | DNF Duel                      | [Unreal Engine 4.25](https://1drv.ms/u/s!ApT7KvOr_B0hkPgRVEhN1MsPEpnAeA?e=bPFdsf)                        |
 | Granblue Fantasy Versus       | [Unreal Engine 4.21](https://1drv.ms/u/s!ApT7KvOr_B0hkPgWb5AjxrUapJcYmQ?e=79mVYA)                        |
-| GranBlue Fantasy Verus Rising | [Unreal Engine 4.27](https://drive.google.com/file/d/1SnX9rcMxeHP82GojHocdLUux2Sa0qZG1/view?usp=sharing) |
+| Granblue Fantasy Versus Rising | [Unreal Engine 4.27](https://drive.google.com/file/d/1SnX9rcMxeHP82GojHocdLUux2Sa0qZG1/view?usp=sharing) |
