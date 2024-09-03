@@ -6,11 +6,7 @@ Extract all of the contents from the custom UE4 archive you downloaded in the pr
 
 Once that is complete, you can fire up the engine with `.\Engine\Binaries\Win64\UE4Editor.exe`
 
-<div class="warning">
-
 The current Guilty Gear -Strive- editor works differently. It will be booted from `.\RED\Binaries\Win64\GGSTCookedEditor.exe`. 
-
-</div>
 
 **You do not need the Epic Games Launcher for this.**
 

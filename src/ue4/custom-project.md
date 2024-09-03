@@ -12,6 +12,8 @@ Below are download links for each game:
 - [DNF Duel custom project](https://1drv.ms/u/s!ApT7KvOr_B0hgY3rUBgqs787KHi5_iY?e=xKuxrI)
 - [Granblue Fantasy Versus Rising custom project](https://drive.google.com/file/d/1aA1WYxkxpOUpNqSi5kANLUhh4Ja7A_4l/view?usp=drive_link)
 
+The Guilty Gear -Strive- custom project may receive periodic patches in another archive. You'll want to download both `GGSTContent.rar` and `GGSTContent_Patch.rar`. After extracting the first RAR, extract the second RAR into the same folder. This should replace files.
+
 Once you have downloaded the correct project, extract it to your Unreal Projects directory. If you've run the editor before, you can usually find it at `Documents\Unreal Projects\`.
 
 You'll also need a working installation of Microsoft's Visual Studio in order for the editor to be able to compile the project.
