@@ -2,7 +2,7 @@
 
 <hr>
 
-Extract all of the contents from the custom UE4 archive you downloaded in the previous step. You can use tools like [WinRAR]([https://www.win-rar.com/](https://www.win-rar.com/)) or [7-Zip](https://www.7-zip.org) to do so.
+Extract all of the contents from the custom UE4 archive you downloaded in the previous step. You can use tools like [WinRAR](https://www.win-rar.com/) or [7-Zip](https://www.7-zip.org) to do so.
 
 Once that is complete, you can fire up the engine with `.\Engine\Binaries\Win64\UE4Editor.exe`
 

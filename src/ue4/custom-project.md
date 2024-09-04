@@ -8,11 +8,13 @@ Below are download links for each game:
 
 - [Dragon Ball FighterZ custom project](https://drive.google.com/file/d/1-wjbe0aE4Xs8S7AunSB0XtAE-sSZsOnW/view?usp=sharing)
 - The original Granblue Fantasy Versus does not have a custom project.
-- Guilty Gear -Strive-'s custom project is bundled with the editor. However, the content is a separate download. It can be found in [the same Google Drive folder as the editor.](https://drive.google.com/drive/u/0/folders/16hIM2Gy7V2Vcc3cpj10nY4emUhqmJwd7) The content should be extracted into the RED folder of the cooked editor.
+- Guilty Gear -Strive-'s custom project is bundled with the editor.
 - [DNF Duel custom project](https://1drv.ms/u/s!ApT7KvOr_B0hgY3rUBgqs787KHi5_iY?e=xKuxrI)
 - [Granblue Fantasy Versus Rising custom project](https://drive.google.com/file/d/1aA1WYxkxpOUpNqSi5kANLUhh4Ja7A_4l/view?usp=drive_link)
 
-The Guilty Gear -Strive- custom project may receive periodic patches in another archive. You'll want to download both `GGSTContent.rar` and `GGSTContent_Patch.rar`. After extracting the first RAR, extract the second RAR into the same folder. This should replace files.
+The Guilty Gear -Strive- custom project does not come with content by default. To get the content, you can copy `pakchunk0-WindowsNoEditor.pak` from your copy of Strive into `RED\Content\Paks`. If the Paks folder does not exist, create it.
+
+Additionally, the Strive project may receive asset patches for certain assets. To use these, extract `GGSTContent_Patch.rar` into `RED`.
 
 Once you have downloaded the correct project, extract it to your Unreal Projects directory. If you've run the editor before, you can usually find it at `Documents\Unreal Projects\`. **For Guilty Gear -Strive-, the custom project is already part of the editor.**
 
