@@ -6,22 +6,14 @@
 
 Several tools were created to make Blender compatible with modding Arc System Works games.
 
-## Modified glTF plugin
+## FModel with Arc System Works animation support
 
-[Download the modified glTF plugin](https://cdn.discordapp.com/attachments/856713078128771112/1074927094385094666/io_scene_gltf2_ue4.zip)
+[Download the UEFormat addon](https://github.com/halfuwu/UEFormat/tree/master)
+[Download the modified FModel with ArcSys animation support](https://github.com/WistfulHopes/FModel/releases/tag/arcsys)
 
-Fire up Blender, go to your Preferences > Add-ons. Type `gltf` into the search bar. If it doesn't show up, make sure you're in the 'Official' tab.
+FModel supports exporting models and animations to a new "UEFormat", which is more accurate than either PSK/PSA or glTF. To export to UEFormat, open FModel's settings, then click on the `Models` tab. Finally, set `Mesh Format` to `UEFormat (uemodel)`.
 
-Disable it. Nuke it. Throw it out the window.
-
-Now close Blender, and extract `io_scene_gltf2_ue4.zip` into your Blender addons directory.
-For Windows, this can be found in:
-
-`%appdata%\Blender Foundation\Blender\` `<your Blender version>` `\scripts\addons\`
-
-Next, fire up Blender and go back to the Add-ons menu. If all went well, you'll find a new entry in there called `Import-Export: glTF 2.0 format - For Unreal Engine Modding`. Simply enable it, and you're good to go.
-
-You can now import glTF meshes & skeletons via `File > Import > glTF 2.0 (.glb/.gltf) - Unreal`.
+Now, you can right-click a model, animation, or folder containing either, and export the models/animations to UEFormat. The attached Blender addon can then import these.
 
 ## Aerthas' custom materials & shaders
 

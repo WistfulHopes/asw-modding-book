@@ -3,7 +3,7 @@
 <hr>
 
 Besides Unreal Engine 4 itself, several key pieces of software are used for nearly every aspect of modding these games. We recommend just getting all of them.
-  - [FModel](https://fmodel.app)
+  - [FModel](https://github.com/WistfulHopes/FModel/releases/tag/arcsys)
   - [UModel](https://www.gildor.org/en/projects/umodel)
   - [AssetEditor](https://github.com/kaiheilos/Utilities)
   - [UAssetGUI](https://github.com/atenfyr/UAssetGUI/releases)
