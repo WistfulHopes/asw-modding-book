@@ -18,7 +18,7 @@
 # Creating your mod
 
 - [Mesh/Model](modding-mesh/mesh-intro.md)
-  - [Extracting game models]()
+  - [Extracting game models](modding-mesh/mesh-extracting.md)
   - [Importing models into Blender]()
   - [Exporting models into UE4]()
   - [Setting materials and outline]()
